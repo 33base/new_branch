@@ -1,0 +1,18 @@
+
+#!/bin/bash/ /bin/bash/
+COUNTER=0 COUNTER=0 while [ $COUNTER -lt 10 ]; do echo "Current counter 
+	is $COUNTER" COUNTER=$(($COUNTER+1))
+while [ $COUNTER -lt 10 ]; do # let COUNTER=COUNTER+1 echo "Current 
+        counter is $COUNTER" # let COUNTER+=1 
+        COUNTER=$(($COUNTER+1))done
+        # let COUNTER=COUNTER+1 let COUNTER+=1for myfile in `ls *.txt`; 
+        # do
+done cat $myfile done
+
+for x in {1..10};
+
+ 	  do echo "X = $x"  
+          
+for myfile in `ls *.txt`; do done
+
+

@@ -1,7 +1,12 @@
  #!/bin/bash
+<<<<<<< HEAD
 
 
 echo  "Naruto" 
+=======
+ 
+echo "datebayo"
+>>>>>>> 90519696a5e1103c916834a532339ca67c4ed5cf
 echo  "Hello DevOps!"
 echo  "New change"
 user_group=$1

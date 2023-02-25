@@ -1,5 +1,6 @@
  #!/bin/bash
  
+echo "datebayo"
 echo  "Hello DevOps!"
 echo  "New change"
 user_group=$1

@@ -1,5 +1,7 @@
  #!/bin/bash
- 
+
+
+echo  "Naruto" 
 echo  "Hello DevOps!"
 echo  "New change"
 user_group=$1

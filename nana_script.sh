@@ -1,5 +1,5 @@
  #!/bin/bash
-
+ 
 echo  "Hello DevOps!"
 echo  "New change"
 user_group=$1
